@@ -1,3 +1,4 @@
+![logo](https://github.com/Dwiti-Maharana/Dwiti-Maharana/blob/main/gitbanner.gif)
 <h1 align="center">Hi 👋, I'm Dwiti Krushna Maharana</h1>
 <h3 align="center">A web developer from India</h3>
 
