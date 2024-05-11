@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dwiti Krushna Maharana</h1>
 <h3 align="center">A web developer from India</h3>
 
+<img align="right" alt="coading" width="400" src="https://github.com/Dwiti-Maharana/Dwiti-Maharana/blob/main/git.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwiti-maharana&label=Profile%20views&color=0e75b6&style=flat" alt="dwiti-maharana" /> </p>
 
 - 🌱 I’m currently learning **Web development**
@@ -20,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwiti-maharana&show_icons=true&locale=en&layout=compact" alt="dwiti-maharana" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwiti-maharana&show_icons=true&locale=en" alt="dwiti-maharana" /></p>
-
